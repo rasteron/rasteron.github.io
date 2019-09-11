@@ -1,1 +1,1 @@
-{"foo":"bar","newbit":"{foo:'bar'}"}
+{"foo":"bar","newbit":{"foo":"bar"}}
